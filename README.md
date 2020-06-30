@@ -24,7 +24,7 @@ Name |
 
 -----
 ## Projects
-> #### ANDROID APPS
+#### ANDROID APPS
 - **Kontry**  
   `30-06-2020`  
   Kontry communicates with http://restcountries.eu/ API to provide basic details about countries like name, capital, population and much more.  
@@ -36,13 +36,15 @@ Name |
   eBook Shop helps user to view books for each category, and apply many operations like add, edit or delete.  
 
   https://github.com/devahmedshendy/eBookShop/
-
-> #### TECH COMMUNITY CHALLENGES
+  
+  
+#### TECH COMMUNITY CHALLENGES
 - **AWS DeepRacer Community Log Analysis Challenge**  
   `19-10-2019`  
   https://github.com/devahmedshendy/aws-deepracer-workshops/tree/enhance-log-analysis  
-
-> #### WEB APPS
+  
+  
+#### WEB APPS
 - **MedicalLab**  
   `15-09-2017`  
   MedicalLab is a Simple Java-Based Web App Using Spring Framework.  
@@ -51,14 +53,14 @@ Name |
   dev-1.0.0: https://github.com/devahmedshendy/medicallab/tree/dev-1.0.0  
   dev-2.0.0: https://github.com/devahmedshendy/medicallab/tree/dev-2.0.0
 
-
 - **CITC LAB**  
   `05-06-2017`  
   Simple Blood Test App
 
   https://github.com/devahmedshendy/citc_lab
-
-> ### OTHERS
+  
+  
+### OTHERS
 - **Mandy AutoInstall Tool**  
   `16-06-2014`  
   http://youtu.be/kZLF5CPJifg  
