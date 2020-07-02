@@ -39,6 +39,10 @@ Name |
   
   
 #### TECH COMMUNITY CHALLENGES
+- **EGDriod - Week1 Animation Challenge**  
+  `18-04-2020`  
+  https://github.com/devahmedshendy/egdroid-w1-challenge
+
 - **AWS DeepRacer Community Log Analysis Challenge**  
   `19-10-2019`  
   https://github.com/devahmedshendy/aws-deepracer-workshops/tree/enhance-log-analysis  
