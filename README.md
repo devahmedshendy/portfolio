@@ -94,7 +94,7 @@ Name |
 -----
 ## Use Cases
 - **Transition Background of Selected Item From Previous Selected Item**  
-  `09.07.2020`
+  `09.07.2020`  
   https://gist.github.com/devahmedshendy/ec726e56965b9812b19a7adb22c87345
 
 
