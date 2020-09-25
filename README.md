@@ -12,6 +12,15 @@ Name |
 
 -----
 ## Recent News
+- **Hilt, The DI Library For Android `Series`**  
+  - **PART 1: Getting To Know**  
+    `25.09.2020`  
+    https://blog.iamshendy.com/hilt-the-di-library-for-android-part-1-getting-to-know-ckfiet1gn01mznws17fwb6qd4
+    
+  - **PART 2: Basic Concepts**  
+    `25.09.2020`  
+    https://blog.iamshendy.com/hilt-the-di-library-for-android-part-2-basic-concepts-ckfijy1dy026nnws1au2i0klg
+    
 - **Transition Background of Selected Item From Previous Selected Item**  
   `09.07.2020`  
   https://gist.github.com/devahmedshendy/ec726e56965b9812b19a7adb22c87345
@@ -21,10 +30,6 @@ Name |
   Kontry communicates with http://restcountries.eu/ API to provide basic details about countries like name, capital, population and much more.  
   
   https://github.com/devahmedshendy/Kontry/  
-
-- **Run Local Development Over HTTPS Using Caddy (Traditional Setup)**  
-  `24.03.2020`  
-  https://medium.com/@devahmedshendy/traditional-setup-run-local-development-over-https-using-caddy-964884e75232
 
 
 -----
@@ -78,24 +83,24 @@ Name |
 
 -----
 ## Articles
-- **Hilt, The DI Library For Android `Series`**  
-  - **PART 1: Getting To Know**  
+- **`Series` Hilt, The DI Library For Android**  
+  - **`Article` PART 1: Getting To Know**  
     `25.09.2020`  
     https://blog.iamshendy.com/hilt-the-di-library-for-android-part-1-getting-to-know-ckfiet1gn01mznws17fwb6qd4
     
-  - **PART 2: Basic Concepts**  
+  - **`Article` PART 2: Basic Concepts**  
     `25.09.2020`  
     https://blog.iamshendy.com/hilt-the-di-library-for-android-part-2-basic-concepts-ckfijy1dy026nnws1au2i0klg
 
-- **Run Local Development Over HTTPS Using Caddy (Traditional Setup)**  
+- **`Tutorial` Run Local Development Over HTTPS Using Caddy (Traditional Setup)**  
   `24.03.2020`  
   https://blog.iamshendy.com/traditional-setup-run-local-development-over-https-using-caddy-ckfilintn02giots1c6qw1xnc
 
-- **What is Combinations and Permutations**  
+- **`Article` What is Combinations and Permutations**  
   `28.11.2019`  
   https://blog.iamshendy.com/what-is-combinations-and-permutations-ckfifoiac01pfnws143p4dx2w
 
-- **Carriage Return vs Line Feed vs Form Feed!**  
+- **`Article` Carriage Return vs Line Feed vs Form Feed!**  
   `18.11.2019`  
   https://blog.iamshendy.com/carriage-return-vs-line-feed-vs-form-feed-first-article-ever-ckfifj4bq01r5ots1e1nzbohn
 
