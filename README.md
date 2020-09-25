@@ -83,24 +83,24 @@ Name |
 
 -----
 ## Articles
-- **`Series` Hilt, The DI Library For Android**  
-  - **`Article` PART 1: Getting To Know**  
+- **Hilt, The DI Library For Android** `Series`  
+  - **PART 1: Getting To Know**  
     `25.09.2020`  
     https://blog.iamshendy.com/hilt-the-di-library-for-android-part-1-getting-to-know-ckfiet1gn01mznws17fwb6qd4
     
-  - **`Article` PART 2: Basic Concepts**  
+  - **PART 2: Basic Concepts**  
     `25.09.2020`  
     https://blog.iamshendy.com/hilt-the-di-library-for-android-part-2-basic-concepts-ckfijy1dy026nnws1au2i0klg
 
-- **`Tutorial` Run Local Development Over HTTPS Using Caddy (Traditional Setup)**  
+- **Run Local Development Over HTTPS Using Caddy (Traditional Setup)**  
   `24.03.2020`  
   https://blog.iamshendy.com/traditional-setup-run-local-development-over-https-using-caddy-ckfilintn02giots1c6qw1xnc
 
-- **`Article` What is Combinations and Permutations**  
+- **What is Combinations and Permutations**  
   `28.11.2019`  
   https://blog.iamshendy.com/what-is-combinations-and-permutations-ckfifoiac01pfnws143p4dx2w
 
-- **`Article` Carriage Return vs Line Feed vs Form Feed!**  
+- **Carriage Return vs Line Feed vs Form Feed!**  
   `18.11.2019`  
   https://blog.iamshendy.com/carriage-return-vs-line-feed-vs-form-feed-first-article-ever-ckfifj4bq01r5ots1e1nzbohn
 
