@@ -78,18 +78,26 @@ Name |
 
 -----
 ## Articles
+- **Hilt, The DI Library For Android `Series`**  
+  - **PART 1: Getting To Know**  
+    `25.09.2020`  
+    https://blog.iamshendy.com/hilt-the-di-library-for-android-part-1-getting-to-know-ckfiet1gn01mznws17fwb6qd4
+    
+  - **PART 2: Basic Concepts**  
+    `25.09.2020`  
+    https://blog.iamshendy.com/hilt-the-di-library-for-android-part-2-basic-concepts-ckfijy1dy026nnws1au2i0klg
+
 - **Run Local Development Over HTTPS Using Caddy (Traditional Setup)**  
   `24.03.2020`  
-  https://medium.com/@devahmedshendy/traditional-setup-run-local-development-over-https-using-caddy-964884e75232
-
-- **Carriage Return vs Line Feed vs Form Feed!**  
-  `18.11.2019`  
-  https://devahmedshendy.github.io/misc/2019/11/18/carriage-return-line-feed-form-feed.html
+  https://blog.iamshendy.com/traditional-setup-run-local-development-over-https-using-caddy-ckfilintn02giots1c6qw1xnc
 
 - **What is Combinations and Permutations**  
   `28.11.2019`  
-  https://devahmedshendy.github.io/programming_terms/2019/11/28/what-is-combinations-and-permutations.html
+  https://blog.iamshendy.com/what-is-combinations-and-permutations-ckfifoiac01pfnws143p4dx2w
 
+- **Carriage Return vs Line Feed vs Form Feed!**  
+  `18.11.2019`  
+  https://blog.iamshendy.com/carriage-return-vs-line-feed-vs-form-feed-first-article-ever-ckfifj4bq01r5ots1e1nzbohn
 
 -----
 ## Use Cases
@@ -100,8 +108,11 @@ Name |
 
 -----
 ## More Me
+- **Blog**  
+  https://blog.iamshendy.com
+
 - **Linkedin**  
-  https://www.linkedin.com/in/devahmedshendy/
+  https://www.linkedin.com/in/devahmedshendy
 
 - **Medium**  
   https://medium.com/@devahmedshendy
