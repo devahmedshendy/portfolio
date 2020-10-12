@@ -3,11 +3,26 @@
 ## Content
 Name |
 ---- | 
+[More Me](#More-Me) | 
 [Recent News](#Recent-News) | 
 [Projects](#Projects) | 
 [Articles](#Articles) | 
 [Use Cases](#Use-Cases) |
-[More Me](#More-Me) | 
+
+
+-----
+## More Me
+- **Blog**  
+  https://blog.iamshendy.com
+
+- **Stackoverflow**  
+  https://stackoverflow.com/users/story/4538920
+
+- **Linkedin**  
+  https://www.linkedin.com/in/devahmedshendy
+
+- **Medium**  
+  https://medium.com/@devahmedshendy
 
 
 -----
@@ -110,17 +125,3 @@ Name |
   `09.07.2020`  
   https://gist.github.com/devahmedshendy/ec726e56965b9812b19a7adb22c87345
 
-
------
-## More Me
-- **Blog**  
-  https://blog.iamshendy.com
-
-- **Stackoverflow**  
-  https://stackoverflow.com/users/story/4538920
-
-- **Linkedin**  
-  https://www.linkedin.com/in/devahmedshendy
-
-- **Medium**  
-  https://medium.com/@devahmedshendy
