@@ -19,7 +19,7 @@ Name |
   https://stackoverflow.com/users/story/4538920
 
 - **Linkedin**  
-  https://www.linkedin.com/in/devahmedshendy
+  https://www.linkedin.com/in/devshendy
 
 - **Medium**  
   https://medium.com/@devahmedshendy
@@ -81,6 +81,7 @@ Name |
 
   dev-1.0.0: https://github.com/devahmedshendy/medicallab/tree/dev-1.0.0  
   dev-2.0.0: https://github.com/devahmedshendy/medicallab/tree/dev-2.0.0
+  dev-2.0.0 demo: https://youtu.be/V2UewxLA46k
 
 - **CITC LAB**  
   `05.06.2017`  
